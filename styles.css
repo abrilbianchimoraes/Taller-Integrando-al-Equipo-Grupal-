@@ -1,13 +1,20 @@
 body {
-    background-color: lightsalmon;
+    background-color: rgb(245, 184, 160);
 }
- h1{
-    color: salmon;
+ h1, h2{
+    color: rgb(255, 112, 96);
+    font-family: "Lucida Handwriting", Cursive;
  }
+
+p{
+    color: rgb(252, 108, 55);
+}
+
 .image{
-    border: 5px solid coral;
+    border: 5px solid rgb(252, 119, 71);
     border-radius: 10px;
     height: 400px;
+    padding: 0 10px;
 }
 
 .link-button {
