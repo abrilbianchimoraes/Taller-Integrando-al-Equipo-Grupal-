@@ -2,19 +2,19 @@ body {
     background-color: rgb(245, 184, 160);
 }
  h1, h2{
-    color: rgb(255, 112, 96);
+    color: rgb(209, 87, 73);
     font-family: "Lucida Handwriting", Cursive;
  }
 
 p{
-    color: rgb(252, 108, 55);
+    color: rgb(221, 87, 38);
 }
 
 .image{
     border: 5px solid rgb(252, 119, 71);
     border-radius: 10px;
     height: 400px;
-    padding: 0 10px;
+    padding: 10px 10px;
 }
 
 .link-button {
