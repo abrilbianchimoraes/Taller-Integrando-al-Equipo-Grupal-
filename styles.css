@@ -1,9 +1,15 @@
 body {
     background-color: lightsalmon;
 }
- h1{
+h1, h2 {
     color: salmon;
  }
+
+p{
+    color: coral;
+    font-family: "Lucida Handwriting", Cursive;
+}
+
 .image{
     border: 5px solid coral;
     border-radius: 10px;
