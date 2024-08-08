@@ -10,10 +10,17 @@ body {
 
 .link-button {
     text-decoration: none;
-    color: black;
+    color: salmon;
     border: 1px solid gray;
     background-color: #f2f2f2;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+    border-color: coral;
+}
+
+button:hover{
+    cursor: pointer;
+    color: black;
+    border: 4px double;
 }
